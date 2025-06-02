@@ -1,0 +1,161 @@
+{
+    "education": [
+        {
+            "title": "Sardar Vallabhbhai Patel, Institute of Technology - SVIT Vasad",
+            "description": "Bachelor Degree in Computer Engineering and specializing in Software Development and Mobile App Development.",
+            "timeline": "March 2015- June 2019",
+            "location": "Vasad, Gujarat India ",
+            "image": "",
+            "website": "https://www.svitvasad.ac.in/"
+        },
+        {
+            "title": "DZ Patel",
+            "description": "Higher Secondary School in Science(Maths) Stream.",
+            "timeline": "June 2013 - May 2015",
+            "location": "Anand, Gujarat 388001 ",
+            "image": "",
+            "website": "https://dzpatelschool.org/"
+        },
+        {
+            "title": "United School Vasad",
+            "description": "Primary English Medium School.",
+            "timeline": " - June 2013",
+            "location": "Vasad Gujarat, India ",
+            "image": "",
+            "website": "https://schools.org.in/anand/24150104906/united-english-school.html"
+        }
+    ],
+    "project": [
+        {
+            "title": "Talk",
+            "shortDescription": "Real-time messaging app.",
+            "description": "Talk is a mobile app focused on providing a secure and reliable platform for real-time communication. Users can send instant messages and connect globally with friends and family.",
+            "industry": "Social Communication",
+            "isLocal": true,
+            "technology": [
+                "Flutter",
+                "Dart",
+                "Firebase",
+                "HTTP"
+            ],
+            "image": "assets/image/project/talk/1.png",
+            "imagelist": [
+                "assets/image/project/talk/1.png",
+                "assets/image/project/talk/2.png",
+                "assets/image/project/talk/3.png",
+                "assets/image/project/talk/4.png",
+                "assets/image/project/talk/5.png",
+                "assets/image/project/talk/6.png",
+                "assets/image/project/talk/7.png"
+            ],
+            "appstore": "NA",
+            "playstore": "NA",
+            "sourceCode": "https://github.com/GamechiNitin/Talk",
+            "category": "personal",
+            "website": "NA",
+            "projectGoals": [
+                "Real-time messaging",
+                "User-friendly interface",
+                "Global connectivity"
+            ],
+            "userBase": "Anyone looking for a simple messaging solution"
+        },
+        {
+            "title": "Tercardia SmartDoc",
+            "shortDescription": "Doctor consultation app for physicians and patients.",
+            "description": "Tercardia SmartDoc is a healthcare application designed to connect physicians and patients for remote consultations. The app integrates biometric security features and offers a seamless user experience for medical professionals and their patients.",
+            "industry": "Health",
+            "isLocal": true,
+            "technology": [
+                "Flutter",
+                "Dart",
+                "Firebase",
+                "HTTP",
+                "Biometric",
+                "Google Autocomplete"
+            ],
+            "image": "assets/image/project/tercardia/1.png",
+            "imagelist": [
+                "assets/image/project/tercardia/1.png",
+                "assets/image/project/tercardia/2.png",
+                "assets/image/project/tercardia/3.png",
+                "assets/image/project/tercardia/4.png",
+                "assets/image/project/tercardia/5.png",
+                "assets/image/project/tercardia/6.png",
+                "assets/image/project/tercardia/7.png",
+                "assets/image/project/tercardia/8.png",
+                "assets/image/project/tercardia/9.png",
+                "assets/image/project/tercardia/10.png"
+            ],
+            "appstore": "https://apps.apple.com/in/app/tercardia-smartdoc/id1530891676",
+            "playstore": "NA",
+            "sourceCode": "NA",
+            "category": "company",
+            "website": "https://www.tercardia.com/home",
+            "projectGoals": [
+                "Remote consultations",
+                "Biometric authentication",
+                "Seamless experience for healthcare professionals"
+            ],
+            "userBase": "Physicians and patients seeking remote healthcare solutions"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Kodehash",
+            "timeline": "July, 2023 - July 2024",
+            "location": "Gurugram, Haryana",
+            "position": "Senior Flutter Developer",
+            "stack": [
+                "Flutter",
+                "Dart",
+                "Firebase",
+                "Socket.io",
+                "Figma",
+                "SDLC"
+            ],
+            "description": [
+                "Contributed to the development of 8+ various applications like E-commerce, Shopping apps.",
+                "Following SDLC systematic process for planning, creating, testing, deploying, maintaining software apps. ",
+                "UI/UX, API integration, Payment gateway, Session management, Bug fixing, Unit testing, App support.",
+                "Improve app developing performance by 40%, reduce bug count by 60%.",
+                "Delivered project 10% ahead of schedule, achieved a 95% client satisfaction rate."
+            ]
+        },
+        {
+            "company": "Smitech",
+            "timeline": "May, 2022 - Feb 2023",
+            "location": "Remote - Vadodara",
+            "position": "Flutter Developer (Contract)",
+            "stack": [
+                "Flutter",
+                "Dart",
+                "Firebase",
+                "Figma",
+                "Agora",
+                "Google Autocomplete"
+            ],
+            "description": [
+                "Responsible for creating and developing high performance, cross-platform mobile applications for Android and IOS using Flutter and Dart framework.",
+                "Delivered project 20% ahead of schedule, achieved 80% client satisfaction rates."
+            ]
+        },
+        {
+            "company": "Kode Creator",
+            "timeline": "March, 2021 - April 2022",
+            "location": "Ajwa, Vadodara",
+            "position": "Flutter Developer",
+            "stack": [
+                "Flutter",
+                "Dart",
+                "Firebase",
+                "Material Ui"
+            ],
+            "description": [
+                "Developed and contributed to 15+ various applications like E-commerce, SocialMedia, Grocery, Shopping apps.",
+                "UI/UX, API integration, Payment gateway, State management, Session management, update, bug fixing, unit testing etc.",
+                "Helping team members to deliver applications on time, which improves performance by 20% and reduces bug count by 20%."
+            ]
+        }
+    ]
+}
